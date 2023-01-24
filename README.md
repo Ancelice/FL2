@@ -30,9 +30,9 @@ Hiromichi YAJIMA, Takumi MIYOSHI, Taku YAMAZAKI, Shota ONO, and Thomas SILVERSTO
 ～保存場所～
 
 プログラム  
-＞client（クライアント側ではしらせるプログラム）  
-＞server（サーバ側ではしらせるプログラム）  
-＞result（実験で得られたCSVをグラフ化するプログラム）  
+＞Server（サーバ側ではしらせるプログラム）  
+＞Client（クライアント側ではしらせるプログラム）  
+＞Plot（実験で得られたCSVをグラフ化するプログラム）  
 
 結果  
 ＞Figure（実験データのグラフのみ）  
