@@ -1,6 +1,9 @@
 # FL2 (Federated Learing Ver.2)
 連合学習（Federated Learning）における蒸留を用いた端末負荷と通信量の削減  
 CIFAR-10を用いた画像認識において、クライアントの精度向上、システム全体の通信量削減を実現  
+※今回は6, 8, 10, 12, 14層の、計5種類のモデルを設定  
+![image](https://user-images.githubusercontent.com/103622417/214254456-cc57022f-1c9c-4789-9353-91fc2f25e9ac.png)
+
 
 ## Publications
 矢島大路，小野翔多，三好 匠，山崎 託，シルバーストン トーマス，"Federated Learningにおける蒸留を用いたデバイス処理削減手法の検討," 電子情報通信学会ネットワークシステム研究会，はじめての研究会セッション，予稿なし，Oct. 2021. （初めての研究会講演奨励賞）  
