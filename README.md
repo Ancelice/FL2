@@ -2,6 +2,8 @@
 連合学習（Federated Learning）における蒸留を用いた端末負荷と通信量の削減  
 CIFAR-10を用いた画像認識において、クライアントの精度向上、システム全体の通信量削減を実現  
 ※今回は6, 8, 10, 12, 14層の、計5種類のモデルを設定    
+
+
 ![image](https://user-images.githubusercontent.com/103622417/214254456-cc57022f-1c9c-4789-9353-91fc2f25e9ac.png)
 
 
